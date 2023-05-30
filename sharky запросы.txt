@@ -1,0 +1,15 @@
+/vpn/index.html
+/vpn/tmindex.html
+/auth/login.aspx
+/LogonPoint/tmindex.html
+XenApp1/auth/login.aspx
+auth/silentDetection.aspx
+/citrix/
+RDWeb
+/remote/login
+/global-protect/login.esp
+/cgi-bin/welcome
+/dana-na/auth/url_default/welcome.cgi
+/+CSCOE+/logon.html
+
+{url}:{login}:{password}
